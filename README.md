@@ -11,7 +11,7 @@ During my time at Moz I was lucky enough to have the opportunity to develop a ga
 ## Asset Owners
 
 - Code/Design: Jonathan Wills (https://github.com/Bungalow12)
-- Music/SFX: Jeff Wood (https://github.com/a1ph4g33k)
+- Design/Music/SFX/Code: Jeff Wood (https://github.com/a1ph4g33k)
 - Art: Derric Wise
 - Art: Abe Schmidt
 - Art: Josh Mortenson
