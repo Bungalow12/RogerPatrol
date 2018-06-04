@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Asteroid
+  - Enemy
+  - Cannon
+  - Laser
+  - Score
+  - Director
+  - ShipType
+  - Type
+  - PowerUp
+  - Explosion
+  - Asteroid Explosion
+  - EndPoint
+  - Rainbow
+  - Bomb
+  - Missile
+  - Target
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Asteroid
+  - Enemy
+  - Depth1
+  - PowerUp
+  - Explosion
+  - Detector
+  - Bomb Explosion
+  - Asteroid Explosion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2349099921
+    locked: 0
+  - name: Foreground
+    uniqueID: 3644594167
+    locked: 0

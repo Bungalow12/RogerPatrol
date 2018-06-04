@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: f72ba55b35b064a4baa4a8767411b42d
+timeCreated: 1471301839
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MozCon Space Ship (sprite)_Bomb_0
+    21300002: MozCon Space Ship (sprite)_Bomb_1
+    21300004: MozCon Space Ship (sprite)_Bomb_2
+    21300006: MozCon Space Ship (sprite)_Bomb_3
+    21300008: MozCon Space Ship (sprite)_Bomb_4
+    21300010: MozCon Space Ship (sprite)_Bomb_5
+    21300012: MozCon Space Ship (sprite)_Bomb_6
+    21300014: MozCon Space Ship (sprite)_Bomb_7
+    21300016: MozCon Space Ship (sprite)_Bomb_8
+    21300018: MozCon Space Ship (sprite)_Bomb_9
+    21300020: MozCon Space Ship (sprite)_Bomb_10
+    21300022: MozCon Space Ship (sprite)_Bomb_11
+    21300024: MozCon Space Ship (sprite)_Bomb_12
+    21300026: MozCon Space Ship (sprite)_Bomb_13
+    21300028: MozCon Space Ship (sprite)_Bomb_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MozCon Space Ship (sprite)_Bomb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 43}
+        - {x: -39, y: 42}
+        - {x: -39, y: -35}
+        - {x: -32, y: -43}
+        - {x: 34, y: -43}
+        - {x: 39, y: -41}
+        - {x: 39, y: 43}
+    - name: MozCon Space Ship (sprite)_Bomb_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 43}
+        - {x: -39, y: 40}
+        - {x: -39, y: -43}
+        - {x: 39, y: -43}
+        - {x: 39, y: 35}
+        - {x: 31, y: 43}
+    - name: MozCon Space Ship (sprite)_Bomb_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 43}
+        - {x: -39, y: 35}
+        - {x: -39, y: -35}
+        - {x: -31, y: -43}
+        - {x: 31, y: -43}
+        - {x: 39, y: -35}
+        - {x: 39, y: 35}
+        - {x: 31, y: 43}
+    - name: MozCon Space Ship (sprite)_Bomb_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 43}
+        - {x: -39, y: 35}
+        - {x: -39, y: -35}
+        - {x: -31, y: -43}
+        - {x: 31, y: -43}
+        - {x: 39, y: -35}
+        - {x: 39, y: 35}
+        - {x: 31, y: 43}
+    - name: MozCon Space Ship (sprite)_Bomb_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 43}
+        - {x: -39, y: 35}
+        - {x: -39, y: -35}
+        - {x: -31, y: -43}
+        - {x: 31, y: -43}
+        - {x: 39, y: -35}
+        - {x: 39, y: 35}
+        - {x: 31, y: 43}
+    - name: MozCon Space Ship (sprite)_Bomb_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 43}
+        - {x: -39, y: 35}
+        - {x: -39, y: -35}
+        - {x: -31, y: -43}
+        - {x: 31, y: -43}
+        - {x: 39, y: -35}
+        - {x: 39, y: 35}
+        - {x: 31, y: 43}
+    - name: MozCon Space Ship (sprite)_Bomb_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 43}
+        - {x: -39, y: 35}
+        - {x: -39, y: -35}
+        - {x: -31, y: -43}
+        - {x: 31, y: -43}
+        - {x: 39, y: -35}
+        - {x: 39, y: 35}
+        - {x: 31, y: 43}
+    - name: MozCon Space Ship (sprite)_Bomb_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 43}
+        - {x: -39, y: 35}
+        - {x: -39, y: -35}
+        - {x: -31, y: -43}
+        - {x: 31, y: -43}
+        - {x: 39, y: -35}
+        - {x: 39, y: 35}
+        - {x: 31, y: 43}
+    - name: MozCon Space Ship (sprite)_Bomb_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 43}
+        - {x: -39, y: 35}
+        - {x: -39, y: -35}
+        - {x: -31, y: -43}
+        - {x: 31, y: -43}
+        - {x: 39, y: -35}
+        - {x: 39, y: 35}
+        - {x: 31, y: 43}
+    - name: MozCon Space Ship (sprite)_Bomb_9
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 43}
+        - {x: -39, y: 35}
+        - {x: -39, y: -35}
+        - {x: -31, y: -43}
+        - {x: 31, y: -43}
+        - {x: 39, y: -35}
+        - {x: 39, y: 35}
+        - {x: 31, y: 43}
+    - name: MozCon Space Ship (sprite)_Bomb_10
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 43}
+        - {x: -39, y: 35}
+        - {x: -39, y: -35}
+        - {x: -31, y: -43}
+        - {x: 31, y: -43}
+        - {x: 39, y: -35}
+        - {x: 39, y: 35}
+        - {x: 31, y: 43}
+    - name: MozCon Space Ship (sprite)_Bomb_11
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 43}
+        - {x: -39, y: -35}
+        - {x: -31, y: -43}
+        - {x: 30, y: -43}
+        - {x: 39, y: -40}
+        - {x: 39, y: 43}
+    - name: MozCon Space Ship (sprite)_Bomb_12
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 43}
+        - {x: -39, y: 35}
+        - {x: -39, y: -35}
+        - {x: -31, y: -43}
+        - {x: 39, y: -43}
+        - {x: 39, y: 43}
+    - name: MozCon Space Ship (sprite)_Bomb_13
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 43}
+        - {x: -39, y: -35}
+        - {x: -31, y: -43}
+        - {x: 30, y: -43}
+        - {x: 39, y: -40}
+        - {x: 39, y: 43}
+    - name: MozCon Space Ship (sprite)_Bomb_14
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 77.066666
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 43}
+        - {x: -39, y: -35}
+        - {x: -31, y: -43}
+        - {x: 30, y: -43}
+        - {x: 39, y: -40}
+        - {x: 39, y: 43}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
