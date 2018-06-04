@@ -6,7 +6,7 @@
 
 ## Overview
 
-During my time at Moz I was lucky enough to have the opportunity to develop a game again. We had a 3-month deadline so some of the code here may have a little bit of a rushed look to it in places although I tried to avoid that as much as possible. I had worked on a large majority of the code but I cannot claim ownership of the assets. My goal was to create a highly customizeable game maing use of th Unity Editor for various gameplay tweaks and avoiding code changes where possible. This was originally written in Unity 5.2 so it is likely using deprecated methods.
+During my time at Moz I was lucky enough to have the opportunity to develop a game again. We had a 3ish-month deadline so some of the code here may have a little bit of a rushed look to it in places although I tried to avoid that as much as possible. I had worked on a large majority of the code but I cannot claim ownership of the assets. My goal was to create a highly customizeable game maing use of the Unity Editor for various gameplay tweaks and avoiding code changes where possible. This was originally written in Unity 5.2 so it is likely using deprecated methods.
 
 ## Asset Owners
 
